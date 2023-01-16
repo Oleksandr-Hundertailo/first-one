@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "indent-style": [true, "spaces"],
+    "indent-width": ["error", 2]
+  }
+}
